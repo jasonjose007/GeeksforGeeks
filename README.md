@@ -1,6 +1,6 @@
 # GeeksforGeeks Solutions
 
-> 📊 **Stats:** 467 solved | 68% acceptance rate
+> 📊 **Stats:** 468 solved | 68% acceptance rate
 
 Daily practice solutions in Python.
 
@@ -14,7 +14,7 @@ Daily practice solutions in Python.
 ### GFG
 | Difficulty | Solved |
 |------------|--------|
-| 🟢 Easy | 32 |
+| 🟢 Easy | 33 |
 | 🟡 Medium | 14 |
 | 🔴 Hard | 0 |
-| **Total** | **46** |
+| **Total** | **47** |
